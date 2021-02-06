@@ -1,0 +1,196 @@
+# depslib dependency file v1.0
+1599312119 source:c:\users\super\onedrive\Рабочий стол\proggers\3sem\task1\main.cpp
+	<iostream>
+	<graphics.h>
+	"clCircle.h"
+	"clLine.h"
+
+1599312052 c:\users\super\onedrive\Рабочий стол\proggers\3sem\task1\include\clcircle.h
+
+1599309778 source:c:\users\super\onedrive\Рабочий стол\proggers\3sem\task1\src\clcircle.cpp
+	"clCircle.h"
+	<iostream>
+	<graphics.h>
+
+1599310624 source:c:\users\super\onedrive\Рабочий стол\proggers\3sem\task1\src\clline.cpp
+	"clLine.h"
+	<iostream>
+	<graphics.h>
+
+1599310462 c:\users\super\onedrive\Рабочий стол\proggers\3sem\task1\include\clline.h
+
+1599312120 source:d:\1Прога1\3sem\task1\main.cpp
+	<iostream>
+	<graphics.h>
+	"clCircle.h"
+	"clLine.h"
+
+1599312054 d:\1Прога1\3sem\task1\include\clcircle.h
+
+1599310464 d:\1Прога1\3sem\task1\include\clline.h
+
+1599309780 source:d:\1Прога1\3sem\task1\src\clcircle.cpp
+	"clCircle.h"
+	<iostream>
+	<graphics.h>
+
+1599310626 source:d:\1Прога1\3sem\task1\src\clline.cpp
+	"clLine.h"
+	<iostream>
+	<graphics.h>
+
+1599312120 source:e:\1Прога1\3sem\task1\main.cpp
+	<iostream>
+	<graphics.h>
+	"clCircle.h"
+	"clLine.h"
+
+1599312054 e:\1Прога1\3sem\task1\include\clcircle.h
+
+1599310464 e:\1Прога1\3sem\task1\include\clline.h
+
+1599309780 source:e:\1Прога1\3sem\task1\src\clcircle.cpp
+	"clCircle.h"
+	<iostream>
+	<graphics.h>
+
+1599310626 source:e:\1Прога1\3sem\task1\src\clline.cpp
+	"clLine.h"
+	<iostream>
+	<graphics.h>
+
+1599312120 source:f:\1Прога1\3sem\task1\main.cpp
+	<iostream>
+	<graphics.h>
+	"clCircle.h"
+	"clLine.h"
+
+1599312054 f:\1Прога1\3sem\task1\include\clcircle.h
+
+1599310464 f:\1Прога1\3sem\task1\include\clline.h
+
+1599309780 source:f:\1Прога1\3sem\task1\src\clcircle.cpp
+	"clCircle.h"
+	<iostream>
+	<graphics.h>
+
+1599310626 source:f:\1Прога1\3sem\task1\src\clline.cpp
+	"clLine.h"
+	<iostream>
+	<graphics.h>
+
+1604742872 source:e:\3_semestr\task1\main.cpp
+	<iostream>
+	<graphics.h>
+	<vector>
+	<cmath>
+	"node.h"
+	"edge.h"
+	"graph.h"
+
+1600198822 e:\3_semestr\task1\include\clcircle.h
+	"draw.h"
+
+1600195932 e:\3_semestr\task1\include\clline.h
+	"draw.h"
+
+1600778092 source:e:\3_semestr\task1\src\clcircle.cpp
+	"clCircle.h"
+	<iostream>
+	<graphics.h>
+
+1600779558 source:e:\3_semestr\task1\src\clline.cpp
+	"clLine.h"
+	<iostream>
+	<graphics.h>
+
+1599569866 e:\3_semestr\task1\include\draw.h
+	<graphics.h>
+
+1604742872 source:f:\3_semestr\task1\main.cpp
+	<iostream>
+	<graphics.h>
+	<vector>
+	<cmath>
+	"node.h"
+	"edge.h"
+	"graph.h"
+
+1600176290 f:\3_semestr\task1\include\node.h
+	<cstdlib>
+	"clCircle.h"
+
+1600198822 f:\3_semestr\task1\include\clcircle.h
+	"draw.h"
+
+1599569866 f:\3_semestr\task1\include\draw.h
+	<graphics.h>
+
+1600195932 f:\3_semestr\task1\include\clline.h
+	"draw.h"
+
+1600778092 source:f:\3_semestr\task1\src\clcircle.cpp
+	"clCircle.h"
+	<iostream>
+	<graphics.h>
+
+1600779558 source:f:\3_semestr\task1\src\clline.cpp
+	"clLine.h"
+	<iostream>
+	<graphics.h>
+
+1600176290 e:\3_semestr\task1\include\node.h
+	<cstdlib>
+	"clCircle.h"
+
+1600778438 source:e:\3_semestr\task1\src\node.cpp
+	"node.h"
+	<iostream>
+	<cstdlib>
+
+1600178800 source:e:\3_semestr\task1\src\edge.cpp
+	"edge.h"
+	"stdio.h"
+	<cstdlib>
+
+1600177576 e:\3_semestr\task1\include\edge.h
+	"clLine.h"
+
+1600177576 f:\3_semestr\task1\include\edge.h
+	"clLine.h"
+
+1600178800 source:f:\3_semestr\task1\src\edge.cpp
+	"edge.h"
+	"stdio.h"
+	<cstdlib>
+
+1600778438 source:f:\3_semestr\task1\src\node.cpp
+	"node.h"
+	<iostream>
+	<cstdlib>
+
+1612347676 f:\3_semestr\task1\include\graph.h
+	"draw.h"
+	"node.h"
+
+1612348750 source:f:\3_semestr\task1\src\graph.cpp
+	"graph.h"
+	<cmath>
+	"node.h"
+	"edge.h"
+	<iostream>
+	<vector>
+	<graphics.h>
+
+1603805788 e:\3_semestr\task1\include\graph.h
+	"draw.h"
+
+1604742672 source:e:\3_semestr\task1\src\graph.cpp
+	"graph.h"
+	<cmath>
+	"node.h"
+	"edge.h"
+	<iostream>
+	<vector>
+	<graphics.h>
+
